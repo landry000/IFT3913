@@ -12,7 +12,7 @@ Pour faire une présentation sur le test unitaire avancé, choisissez un des suj
 
 [concept] Test basé sur les propriétés
 - Nom: Landry Ntebou
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1UAj5QU6qn3gXvzomB60YFj7nBe1nUHgIv4cpYYyyweY/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0
 
 [concept] Test combinatoire
 - Nom:Sami sabil
